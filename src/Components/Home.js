@@ -7,10 +7,10 @@ export default function Home() {
       <div className='container'>
           <div className="row">
               <div className="col" style={{ textAlign: "center", marginTop: "20vh" }}>
-                  <a href="https://texteditor-flickrgallery-7pm.netlify.app/problemone"><button type="button" class="btn btn-primary btn-lg">Problem 1</button></a>
+                  <a href="http://localhost:3000/problemone"><button type="button" class="btn btn-primary btn-lg">Problem 1</button></a>
               </div>
               <div className="col" style={{ textAlign: "center", marginTop: "20vh" }}>
-                  <a href="https://texteditor-flickrgallery-7pm.netlify.app/problemtwo"><button type="button" class="btn btn-primary btn-lg">Problem 2</button></a>
+                  <a href="http://localhost:3000/problemtwo"><button type="button" class="btn btn-primary btn-lg">Problem 2</button></a>
               </div>
           </div>
       </div>

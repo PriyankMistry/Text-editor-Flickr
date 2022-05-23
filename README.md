@@ -5,7 +5,6 @@
 * React JS
 * Bootstrap
 * Flickr API
-* Netlify
 
 
 ### Project Description
@@ -16,10 +15,7 @@ This project contains both
 
 ### Instructions
 
-* Git clone the file.
+* Git clone the file or download zip file.
 * Run 'npm install' in the terminal at the file directory.
 * Finally run 'npm start' to start the app at your localhost.
 
-### LIVE App
-
-https://texteditor-flickrgallery-7pm.netlify.app/
